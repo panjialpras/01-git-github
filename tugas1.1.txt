@@ -1,0 +1,6 @@
+1. Membuat repo baru : - Mengisikan nama repo
+                       - Mengisikan keterangan repo
+                       - Memilih pengoperasian repo sebagai private atau public
+2. Meng-cloning repo
+3. Mengelola repo  : - Mengubah isi - Push tanpa Branching dan Merging
+                     - Mengubah isi dengan Branching dan Merging
